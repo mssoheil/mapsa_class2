@@ -2,3 +2,43 @@
     border: 1px solid #333;
     background: #ccc;
 }
+
+
+.pure-row {
+    display: flex;
+    width: 100%;
+    margin: 5px;
+}
+
+.pure-col-1 {
+    flex: 2;
+
+}
+.pure-col-2 {
+    flex: 3;
+    margin-left: 24.9%
+}
+.pure-col-3 {
+    flex: 1;
+    margin-left: 16%;
+    margin-right: 8%;
+}
+
+.pure-col-4 {
+    flex: 4;
+    margin-left: 8.3%;
+}
+.pure-col-5 {
+    flex: 2;
+    margin-left: 16.6%;
+}
+.pure-col-6 {
+    flex: 1;
+    margin-left: 16.6%
+}
+
+.pure-col-7 {
+    flex: 6;
+    margin-left: 33%;
+    margin-right: 16.6%;
+}
